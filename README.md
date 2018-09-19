@@ -28,3 +28,5 @@ Our salesman is visiting cities in the United States. The file usborder.mat cont
 load('usborder.mat','x','y','xx','yy');
 plot(x,y,'Color','red'); hold on;
 ```
+
+<img src="https://github.com/RonnyldoSilva/Matlab-Learning/blob/master/Images/traveling_salesman_demo_01.png">
