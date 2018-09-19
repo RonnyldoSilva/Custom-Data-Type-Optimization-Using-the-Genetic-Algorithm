@@ -2,13 +2,13 @@
 
 ## Getting started
 
-Para definir uma matriz:
+To define a matrix:
 
 ```matlab
 A = [1, 2, 3; 4, 5, 6, 7, 8, 9]
 ```
 
-Para escalonar uma matriz:
+To stagger matrix:
 
 ```matlab
 rref(A)
