@@ -1,4 +1,4 @@
-# Matlab Learning
+# Matlab Learning and AI
 
 ## Getting started
 
